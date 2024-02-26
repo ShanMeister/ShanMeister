@@ -1,5 +1,5 @@
-- Hi, I’m @ShanMeister
-- Interested in game/guitar/sleeping.
+- Hi, I’m @DanielMao
+- Interested in coding/game/guitar/fitting.
 - Learning python/español.
 - Able to speak in 中文/English/español
 
