@@ -1,5 +1,5 @@
 - Hi, I’m @DanielMao
-- Interested in coding/game/guitar/fitting.
+- Dipping into coding/gaming/guitar/fittness.
 - Learning python/español.
 - Able to speak in 中文/English/español
 
