@@ -4,7 +4,7 @@ I’m DanielMao, a software engineer with a background in cybersecurity and mach
 
 🎯 Actively grinding in coding and fitness
 
-💻  coding with Python, Java, and C++
+💻 Coding with Python, Java, and C++
 
 🌍 Able to communicating in Chinese, English, and a little Spanish
 
