@@ -6,7 +6,7 @@ I’m DanielMao, a software engineer with a background in cybersecurity and mach
 
 💻 Coding with Python, Java, and C++
 
-🌍 Able to communicating in Chinese, English, and a little Spanish
+🌍 Able to communicate in Mandarin, English, and a little Spanish
 
 ♟️ 1500 ELO in chess.com
 
