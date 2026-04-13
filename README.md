@@ -2,7 +2,7 @@ Hi there👋
 
 I’m DanielMao, a software engineer with a background in cybersecurity, machine learning, and GenAI. I’m currently focused on developing systems that integrate AI capabilities.
 
-🎯 Grinding in coding and fitness
+🎯 Grinding in coding, tennis, and fitness
 
 💻 Coding with Python, Java, and C++
 
@@ -10,7 +10,7 @@ I’m DanielMao, a software engineer with a background in cybersecurity, machine
 
 ♟️ 1500 ELO in chess.com
 
-🔫 Global Elite player in Counter-Strike
+🔫 Global Elite-level player in Counter-Strike
 
 <!---
 ShanMeister/ShanMeister is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
